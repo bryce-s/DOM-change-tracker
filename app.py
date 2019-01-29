@@ -1,9 +1,4 @@
-"""
-    google example
-    ~~~~~~~~~~~~~~
-    This example is contributed by Bruno Rocha
-    GitHub: https://github.com/rochacbruno
-"""
+
 from flask import Flask, redirect, url_for, session, request, jsonify, g
 import subprocess
 import flask
